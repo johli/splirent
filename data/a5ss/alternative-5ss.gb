@@ -1,0 +1,72 @@
+LOCUS       Alternative 5'SS        1365 bp ds-DNA     linear       25-NOV-2014
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    626..650
+                     /label="Mut2"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     misc_feature    583..607
+                     /label="Mut1"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     intron          575..877
+                     /label="Synthetic intron"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     misc_feature    651..660
+                     /label="SD3"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     misc_feature    1141..1365
+                     /label="BGH pA"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     misc_feature    56..574
+                     /label="Citrine Exon1"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     misc_feature    575..581
+                     /label="SD1"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     misc_feature    1102..1121
+                     /label="Barcode"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     misc_feature    878..1077
+                     /label="Citrine Exon2"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     misc_feature    48..55
+                     /label="Kozak"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     misc_feature    616..623
+                     /label="SD2"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+ORIGIN
+        1 ggaattagct tggtactgtg gtggaattct gcagatatca aggatcctcg ccaccatggt
+       61 gtccaagggc gaggagctgt tcaccggggt ggtgcccatc ctggtcgagc tggacggcga
+      121 cgtaaacggc cacaagttca gcgtcagcgg cgagggcgag ggcgatgcca cctacggcaa
+      181 actgaccctg aagttcatct gcaccaccgg caagctgccc gtgccctggc ccaccctcgt
+      241 gaccaccttc ggctacggcc tgatgtgctt cgcccgctac cccgaccaca tgaagcagca
+      301 cgacttcttc aagtccgcca tgcccgaagg ctacgtccag gagcgcacca tcttcttcaa
+      361 ggacgacggc aactacaaga cccgcgccga agtgaagttc gagggcgaca ccctcgtgaa
+      421 ccgcatcgag ctaaagggca tcgacttcaa ggaggacggc aacatcctgg ggcacaagct
+      481 ggagtacaac tacaacagcc acaacgtcta tatcatggcc gacaagcaga agaacggcat
+      541 caaagtgaac ttcaagatcc gccacaacat cgaggtgctt ggnnnnnnnn nnnnnnnnnn
+      601 nnnnnnnggt cgacccaggt tcgtgnnnnn nnnnnnnnnn nnnnnnnnnn gaggtattct
+      661 tatcaccttc gtggctacag agtttcctta tttgtctctg ttgccggctt atatggacaa
+      721 gcatatcaca gccatttatc ggagcgcctc cgtacacgct attatcggac gcctcgcgag
+      781 atcaatacgt ataccagctg ccctcgatac atgtcttggc atcgtttgct tctcgagtac
+      841 tacctggttc ctcttctttc tttctcttct ctttcaggac ggcagcgtgc agctcgccga
+      901 ccactaccag cagaacaccc ccatcggcga cggccccgtg ctgctgcccg acaaccacta
+      961 cctgagctac cagtccgccc tgagcaaaga ccccaacgag aagcgcgatc acatggtcct
+     1021 gctggagttc gtgaccgccg ccgggatcac tctcggcatg gacgagctgt acaaggactg
+     1081 atagtaaggc ccattacctg cnnnnnnnnn nnnnnnnnnn ngcagaacac agcggttcga
+     1141 ctgtgccttc tagttgccag ccatctgttg tttgcccctc ccccgtgcct tccttgaccc
+     1201 tggaaggtgc cactcccact gtcctttcct aataaaatga ggaaattgca tcgcattgtc
+     1261 tgagtaggtg tcattctatt ctggggggtg gggtggggca ggacagcaag ggggaggatt
+     1321 gggaagacaa tagcaggcat gctggggatg cggtgggctc tatgg
+//
