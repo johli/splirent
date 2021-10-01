@@ -35,7 +35,7 @@ The processed 5' Alternative Splicing MPRA data is stored in the repository belo
 **alt_5ss/unprocessed_data/alt_5ss_multi_cell_line_data.tar.gz**
 > The base version of the dataset, containing a .csv file of splice variant sequences and a .mat file of corresponding cell type-specific RNA-Seq read counts supporting 5' splicing at each nucleotide position.
 
-[Processed Data Repository](https://drive.google.com/drive/folders/1v00-sVAfUkWKK0W7Ti3xbNI6dS56ebbp?usp=sharing)<br/>
+[Processed Data Repository](https://drive.google.com/drive/folders/1M0FLhOOw_lD8sAAmsuRUWq5ZEyrNVv2n?usp=sharing)<br/>
 
 ## Analysis
 The following collection of IPython Notebooks contains model analyses (cell type-specific prediction accuracies, differential splicing, etc.).
